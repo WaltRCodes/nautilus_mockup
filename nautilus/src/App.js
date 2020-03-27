@@ -7,6 +7,10 @@ function App() {
     <div id="container">
       <nav>
       <img src={mainLogo} id="logo" />
+        issues
+        topics
+        blog
+        newsletter
       </nav>
     </div>
   );
