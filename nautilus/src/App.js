@@ -11,6 +11,9 @@ function App() {
         topics
         blog
         newsletter
+        <button id="login">
+          Login
+        </button>
       </nav>
     </div>
   );
