@@ -14,6 +14,9 @@ function App() {
         <button id="login">
           Login
         </button>
+        <button id="subscribe">
+          subscribe
+        </button>
       </nav>
     </div>
   );
