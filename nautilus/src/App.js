@@ -6,7 +6,7 @@ function App() {
   return (
     <div id="container">
       <nav>
-      <img src={mainLogo} id="logo" />
+        <img src={mainLogo} id="logo" />
         issues
         topics
         blog
@@ -18,6 +18,9 @@ function App() {
           subscribe
         </button>
       </nav>
+      <div id="headline">
+        
+      </div>
     </div>
   );
 }
