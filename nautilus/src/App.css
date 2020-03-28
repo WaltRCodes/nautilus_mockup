@@ -31,3 +31,9 @@ nav > button{
 #login{
   border-style: none;
 }
+
+#subscribe{
+  border:white;
+  background:black;
+  color:white;
+}
