@@ -60,3 +60,11 @@ nav > button{
   color:orange;
   text-align: center;
 }
+
+#main{
+  display: flex;
+  flex-direction: row;
+  background: #f3f3f3;
+  height:500px;
+  
+}
