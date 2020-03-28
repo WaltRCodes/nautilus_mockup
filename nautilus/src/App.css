@@ -127,3 +127,13 @@ nav > button{
   margin-left: 20px;
   
 }
+
+.textCell{
+  background-color: white;
+  display:flex;
+  flex-direction: column;
+  height:40%;
+  width: 115px;
+  position:relative;
+  padding:10px;
+}
