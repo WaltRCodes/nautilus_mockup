@@ -53,6 +53,31 @@ function App() {
                     </li>
                 </ul>
             </div>
+            <div id="threeSections">
+                <div id="firstSection">
+                    <div class="textCell">
+                        <p><b>Artificial Intelligence</b></p>
+                        <p>Best Screenplay Goes to the Algorithims</p>
+                        <p class="bottom">By Arthur I. Miller</p>
+                    </div>
+                </div>
+                <div id="secondAndThirdSections">
+                    <div id="secondSection">
+                        <div class="textCell">
+                            <p><b>Music</b></p>
+                            <p>How I taught my computer to write its own music</p>
+                            <p class="bottom">By John Supko</p>
+                        </div>
+                    </div>
+                    <div id="thirdSection">
+                        <div class="textCell" id="right">
+                            <p><b>Art</b></p>
+                            <p>Picasso's Got Nothing on AI Artist</p>
+                            <p class="bottom">By Kevin Berger</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
       </div>
     </div>
   );
