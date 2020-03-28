@@ -21,6 +21,7 @@ function App() {
       <div id="headline">
         <h4>THE NAUTILUS SPOTLIGHT</h4>
         <h1>WHY THE LAWS OF PHYSICS ARE INVEVITABLE</h1>
+        <button>Read Now</button>
       </div>
     </div>
   );
