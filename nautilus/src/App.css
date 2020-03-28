@@ -87,3 +87,11 @@ nav > button{
   border: 5px orange;
   padding-left: 5px;;
 }
+
+#firstSection{
+  height:50%;
+  width:100%;
+  background-image: url('./assets/ai.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
