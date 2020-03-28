@@ -147,3 +147,16 @@ nav > button{
   bottom:0;
   margin-bottom: 5px;;
 }
+
+.date{
+  color:orange;
+}
+#quote{
+  color:grey;
+}
+#starterPost{
+  padding:10px;
+}
+button{
+  font-weight:bold;
+}
