@@ -137,3 +137,7 @@ nav > button{
   position:relative;
   padding:10px;
 }
+
+#right{
+  align-self: flex-end;
+}
