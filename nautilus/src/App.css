@@ -49,3 +49,9 @@ nav > button{
 #headline >h4{
   color:white;
 }
+#headline>button{
+  padding:10px;
+  border:black;
+  background:white;
+  color:black;
+}
