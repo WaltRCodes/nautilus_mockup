@@ -95,3 +95,11 @@ nav > button{
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+#secondSection{
+  width:50%;
+  height:100%;
+  background-image: url('./assets/music.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
