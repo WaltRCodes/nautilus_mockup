@@ -103,3 +103,13 @@ nav > button{
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+#thirdSection{
+  width:50%;
+  height:100%;
+  background-image: url('./assets/art.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  display:flex;
+  flex-direction: column;
+}
