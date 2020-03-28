@@ -23,6 +23,9 @@ function App() {
         <h1>WHY THE LAWS OF PHYSICS ARE INVEVITABLE</h1>
         <button>Read Now</button>
       </div>
+      <div id="main">
+        
+      </div>
     </div>
   );
 }
