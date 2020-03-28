@@ -46,3 +46,6 @@ nav > button{
   align-items:center;
   padding-top:100px;
 }
+#headline >h4{
+  color:white;
+}
