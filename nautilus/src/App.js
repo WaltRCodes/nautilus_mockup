@@ -19,7 +19,7 @@ function App() {
         </button>
       </nav>
       <div id="headline">
-        
+        <h4>THE NAUTILUS SPOTLIGHT</h4>
       </div>
     </div>
   );
