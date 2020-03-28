@@ -55,3 +55,8 @@ nav > button{
   background:white;
   color:black;
 }
+
+#headline>h1{
+  color:orange;
+  text-align: center;
+}
