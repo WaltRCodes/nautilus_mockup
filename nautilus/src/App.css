@@ -27,3 +27,7 @@ nav > button{
   padding:10px;
   font-weight:bold;
 }
+
+#login{
+  border-style: none;
+}
